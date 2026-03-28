@@ -1,0 +1,7 @@
+I'm building Ghost Agent PRO, a remote AI agent running on Android devices using Termux.
+
+It explores decentralized AI systems with API control and AI-driven execution.
+
+I'm actively developing it as a real-world experiment in autonomous agents.
+
+Access to Claude would significantly improve the system.
